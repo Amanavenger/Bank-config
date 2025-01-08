@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Production Welcome To Bank account related to local API / Loans Production"
   contactDetails:
-    name: "John Doe - Developer"
+    name: "Prodcution Env Dev"
     email: "john@doe.com"
   onCallSupport:
     1010101010
