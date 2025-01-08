@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome To Bank account related to local API / Accounts Production"
   contactDetails:
-    name: "Dev"
+    name: "Prodcution Env Dev"
     email: "{cipher}f08d7d8baa8aa9a1e20c92a4881c4e5c4798864c434a78c5cbd9cef55b771bb5"
   onCallSupport:
    555-770-9896
