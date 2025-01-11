@@ -2,7 +2,7 @@ build:
   version: 2.1
 
 accounts:
-  message: "Welcome To Bank account related to Cards Production"
+  message: "Welcome To Bank account related to Cards Production WebHook"
   contactDetails:
     name: "Production Env Dev"
     email: "card@microservice.com"
