@@ -2,7 +2,7 @@ build:
   version: 0.1
 
 accounts:
-  message: "Welcome To Bank account related to local API / Accounts Default / AGAIN testing WEBHOOK"
+  message: "Welcome To Bank account related to local API / Accounts Default / AGAIN AND AGAIn testing WEBHOOK"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@doe.com"
