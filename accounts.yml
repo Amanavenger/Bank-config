@@ -7,7 +7,6 @@ accounts:
     name: "John Doe - Developer"
     #email: "john@doe.com"
     email: "{cipher}0b2d028a65c87a7c2c5a72ef23bdfeeebf7a36fd5dec063cca6bcc04a46eaa34
-    #using Spring config encrypt to encrypt the plain text and decrypt.
   onCallSupport:
     1010101010
     11100101010
