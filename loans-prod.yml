@@ -2,7 +2,7 @@ build:
   version: 5.1
 
 accounts:
-  message: "Production Welcome To Bank account related to local API / Loans Production"
+  message: "Production Welcome To Bank account related to local API / Loans Production. Testing RabbitMq, bus reload with actuator"
   contactDetails:
     name: "Prodcution Env Dev"
     email: "john@doe.com"
