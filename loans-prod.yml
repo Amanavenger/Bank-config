@@ -1,11 +1,12 @@
 build:
   version: 5.1
 
-accounts:
-  message: "Production Welcome To Bank account related to local API / Loans Production. Testing RabbitMq, bus reload with actuator......"
+loans:
+  message: "Welcome to Bank, this is Loans sections"
   contactDetails:
-    name: "Prodcution Env Dev"
+    name: "John Doe / PROD"
     email: "john@doe.com"
+    profile: "prod"
   onCallSupport:
-    1010101010
-    11100101010
+    +91 999 888 65245
+    +91 991 456 5620
