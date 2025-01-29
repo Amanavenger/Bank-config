@@ -1,5 +1,5 @@
 build:
-  version: "2.1"
+  version: 5.1
 
 cards:
   message: "Welcome to Bank cards related prod APIs "
@@ -7,5 +7,5 @@ cards:
     name: "RProduct Owner"
     email: "test@bank.com"
   onCallSupport:
-    - (453) 392-4829
-    - (236) 203-0384
+    +91 999 888 65245
+    +91 991 456 5620
