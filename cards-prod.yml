@@ -1,7 +1,7 @@
 build:
   version: "2.1"
 
-accounts:
+cards:
   message: "Welcome to Bank cards related prod APIs "
   contactDetails:
     name: "RProduct Owner"
