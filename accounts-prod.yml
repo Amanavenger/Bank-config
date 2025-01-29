@@ -1,11 +1,11 @@
 build:
-  version: 5.1
+  version: "1.0"
 
 accounts:
-  message: "Welcome To Bank account related to local API / Accounts Production. testing rabbitmq. ewhart"
-contactDetails:
-  name: "Prodcution Env Dev"
-  email: "test@email.com"
-onCallSupport:
-   555-770-9896
-   555-890-9123
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Reine Aishwarya - Product Owner"
+    email: "aishwarya@eazybank.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
