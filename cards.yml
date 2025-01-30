@@ -2,7 +2,7 @@ build:
   version: 0.1
 
 accounts:
-  message: "Welcome To Bank Cards related to local API / Cards Default."
+  message: "Welcome To Bank Cards related to local API / Cards Default. Docker"
   contactDetails:
     name: "John Doe - Developer"
     email: "test@mail.com"
