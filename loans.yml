@@ -1,7 +1,7 @@
 build:
   version: 0.1
 
-accounts:
+loans:
   message: "Welcome To Bank loans related to local API / Loans Default. Docker"
   contactDetails:
     name: "John Doe - Developer"
