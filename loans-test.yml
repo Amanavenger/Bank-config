@@ -1,8 +1,8 @@
 build:
   version: 2.1
 
-accounts:
-  message: "Production Welcome To Bank account related to local API / Loans Test"
+loans:
+  message: "Production Welcome To Bank Loans related to local API / Loans Test"
   contactDetails:
     name: "John Doe - Test"
     email: "john@doe.com"
